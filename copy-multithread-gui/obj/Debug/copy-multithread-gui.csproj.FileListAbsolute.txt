@@ -1,0 +1,8 @@
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread-gui\copy-multithread-gui\bin\Debug\copy-multithread-gui.exe.config
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread-gui\copy-multithread-gui\bin\Debug\copy-multithread-gui.exe
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread-gui\copy-multithread-gui\bin\Debug\copy-multithread-gui.pdb
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread-gui\copy-multithread-gui\obj\Debug\copy-multithread-gui.csprojResolveAssemblyReference.cache
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread-gui\copy-multithread-gui\obj\Debug\copy_multithread_gui.MainForm.resources
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread-gui\copy-multithread-gui\obj\Debug\copy-multithread-gui.csproj.GenerateResource.Cache
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread-gui\copy-multithread-gui\obj\Debug\copy-multithread-gui.exe
+C:\Users\Meysam\Documents\SharpDevelop Projects\copy-multithread-gui\copy-multithread-gui\obj\Debug\copy-multithread-gui.pdb
