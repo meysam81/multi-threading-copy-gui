@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "copy-multithread-gui", "copy-multithread-gui\copy-multithread-gui.csproj", "{EC9B238F-A62E-48A0-9515-BCCF6AD00AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9B238F-A62E-48A0-9515-BCCF6AD00AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9B238F-A62E-48A0-9515-BCCF6AD00AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9B238F-A62E-48A0-9515-BCCF6AD00AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9B238F-A62E-48A0-9515-BCCF6AD00AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
